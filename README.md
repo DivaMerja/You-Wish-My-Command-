@@ -4,7 +4,7 @@ Your Reads, My Command is a web-based book searching and record-keeping platform
 
 ## Preview
 
-![Project Screenshot](screencapture-codepen-io-Diva-the-scripter-full-RNwRQBY-2025-02-24-00_56_18.png)
+![Project Screenshot](https://i.ibb.co/PzZqBn4K/screenshot.png)
 
 ## Features
 - **New Releases Section**: Displays the latest book releases with cover images and author names.
